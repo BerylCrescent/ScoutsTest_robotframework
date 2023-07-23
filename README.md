@@ -22,7 +22,7 @@ For your convenience, links to previous tasks can be found in the table of conte
 
 # Task 5 - Robot Framework
 
-Test Suite [link](https://drive.google.com/file/d/1GEcVJYItZNbQNKZrjFyITlg-nuz4diLE/view?usp=sharing)
+Test Suite [link](https://drive.google.com/file/d/1GEcVJYItZNbQNKZrjFyITlg-nuz4diLE/view?usp=sharing).
 
 - [x] Create a new repository
 - [x] All tests from previous projects have been rewritten to Robot Framework
