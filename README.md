@@ -5,7 +5,7 @@
 
 This repository was created as a part of my portfolio challenge Dare IT - [Automatic tests in practice + Python](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola/tree/main)
 </br>
-For your convenience, you can find links to previous tasks in the table of contents. 
+For your convenience, links to previous tasks can be found in the table of contents. 
 </br>
 </br>
 
