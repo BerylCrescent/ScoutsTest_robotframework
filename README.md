@@ -30,20 +30,22 @@ Test Suite [link](https://drive.google.com/file/d/1GEcVJYItZNbQNKZrjFyITlg-nuz4d
 ## Subtask 1
 
 Recordings prepared for this task:
-- Test Case 1
-- Test Case 2
-- Test Case 3
-- Test Case 4
-- Test Case 5
-- Test Case 6
-- Test Case 7
+- [Login](https://drive.google.com/file/d/1hj04ye1e0B92xi7uhCGxGHExOF6WCgmb/view?usp=sharing)
+- [Test Case 1](https://drive.google.com/file/d/1MfAxck89qsnVjrcJHC9ufF_V6cdxCd0B/view?usp=sharing)
+- [Test Case 2](https://drive.google.com/file/d/1_qiRU04Z6EFbebodbZ8N3StM4RoTFasj/view?usp=sharing)
+- [Test Case 3](https://drive.google.com/file/d/1Pbj6kS384LaneZ1VvEGGfbZTKzlC1rMn/view?usp=sharing)
+- [Test Case 4](https://drive.google.com/file/d/1u0EHFRvdzceqK2u3O9TxAiowzQb06Qf4/view?usp=sharing)
+- [Test Case 5](https://drive.google.com/file/d/1shEu6NEojq3UpN5HcP9fBsBIdC0-N5Z_/view?usp=sharing)
+- [Test Case 6](https://drive.google.com/file/d/1gbOzpdp378ZH6y1VwGawPN9M2qWZaNNj/view?usp=sharing)
+- [Test Case 7](https://drive.google.com/file/d/1xYvUCzEEyzTb917H_BwcsnoZ7xfSySPZ/view?usp=sharing)
 
 Reports:
-- Report TC_01
-- Report TC_02
-- Report TC_03
-- Report TC_04
-- Report TC_05
-- Report TC_06
-- Report TC_07
+- [Report Login](https://drive.google.com/file/d/11m5toB-LyCBKgenhkoKitwXjpahZacoq/view?usp=sharing)
+- [Report TC_01](https://drive.google.com/file/d/1GkdroOH3sUDAUF-DEiKoZ3-bd0e_WmYY/view?usp=sharing)
+- [Report TC_02](https://drive.google.com/file/d/1mNzRJAxML5amZoxWKwMmG1OOhlArX-nq/view?usp=sharing)
+- [Report TC_03](https://drive.google.com/file/d/1XoT0e7Wgjvb0iSFRy_NpeQOYPXaIWgAe/view?usp=sharing)
+- [Report TC_04](https://drive.google.com/file/d/1H_0TRASMOr5sIftrfyUuL_ZH2vsMMiVi/view?usp=sharing)
+- [Report TC_05](https://drive.google.com/file/d/1_tVuRMVacVf-QwWEsjI0h8tx_paXosb_/view?usp=sharing)
+- [Report TC_06](https://drive.google.com/file/d/1kXywBB4gC9BVKwYyCd-XQLjIXmuuH7yM/view?usp=sharing)
+- [Report TC_07](https://drive.google.com/file/d/1zJ7eWtrYoq5SPDHFwGWxWcqJDgEiyGq5/view?usp=sharing)
  
