@@ -16,6 +16,7 @@ For your convenience, links to previous tasks can be found in the table of conte
 3. [Task 3](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola/tree/main#task-3---first-test-and-assert)
 4. [Task 4](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola/tree/main#task-4---refactoring-debugger-and-test-cases)
 5. [Task 5](#task-5---robot-framework)
+6. [Task 6](#task-6---bug-reporting-and-test-report)
 
 </br>
 
@@ -49,3 +50,28 @@ Reports:
 - [Report TC_06](https://drive.google.com/file/d/1kXywBB4gC9BVKwYyCd-XQLjIXmuuH7yM/view?usp=sharing)
 - [Report TC_07](https://drive.google.com/file/d/1zJ7eWtrYoq5SPDHFwGWxWcqJDgEiyGq5/view?usp=sharing)
  
+# Task 6 - Bug reporting and test report
+
+## Subtask 1 - Change of environment
+
+Until now, we worked here:
+https://scouts-test.futbolkolektyw.pl/en/
+<br>
+For this task, we need to change our environment - https://scouts.futbolkolektyw.pl/en/ - and redo the tests. 
+
+
+## Subtask 2 - Bug reporting
+
+- [x] Create a template for reporting bugs
+- [ ] Add a link 
+
+## Subtask 3 - Test report
+
+- [x] Create a template for the report
+- [ ] Add a link
+
+## Subtask 4 - Create a portfolio
+
+- [x] Create a new repository for your portfolio
+
+Well, thanks to the previous challenge - Become a Manual Tester - I already have a [portfolio](https://github.com/BerylCrescent/Portfolio) created. 
