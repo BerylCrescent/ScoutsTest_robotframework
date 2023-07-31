@@ -49,7 +49,8 @@ ${FILTERSSEARCH}                    xpath=//main/div[2]/div/div/div[2]/div
 ${FILTERSSURNAMEINPUT}              xpath=//div/div[2]/div[2]/div/div/div/input
 ${LOGINPAGENOTIFIDENT}              xpath=//*[contains(text(),'Identifier')]
 ${LOGINPAGENOTIFPASSEMAIL}          xpath=//*[contains(text(),'Please')]
-${LOGIN URL}                        https://scouts-test.futbolkolektyw.pl/en
+${LOGIN URL}                        https://dareit.futbolkolektyw.pl/en
+${LOGIN URL FIRST}                  https://scouts-test.futbolkolektyw.pl/en
 ${MAINPAGELINK}                     xpath=//span[text()='Main page']
 ${PAGELOGO}                         xpath=//div[@title='Logo Scouts Panel']
 ${PASSWORDINPUT}                    xpath=//*[@id='password']
@@ -158,6 +159,7 @@ Search Filter Table
     Click On Players
     Fill Filters
     Choose Columns
+    Screenshot Plz
     [Teardown]    Close Browser
 
 *** Keywords ***
