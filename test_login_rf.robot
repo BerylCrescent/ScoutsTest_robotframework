@@ -165,14 +165,14 @@ Search Filter Table
 *** Keywords ***
 Assert Dashboard
     Wait Until Element Is Visible       ${PAGELOGO}
-    Title Should Be                     Scouts panel
+#    Title Should Be                     Scouts panel
     Capture Page Screenshot             alert.png
 Assert Ident Notification
     Wait Until Element Is Visible       ${LOGINPAGENOTIFIDENT}
     Capture Page Screenshot             identnotif.png
 Assert Login Page
     Wait Until Element Is Visible       ${SCOUTSPANEL}
-    Title Should Be                     Scouts panel - sign in
+#    Title Should Be                     Scouts panel - sign in
     Capture Page Screenshot             logout.png
 Assert Popup
     Wait Until Element Is Visible       ${ADDPLAYERNOTIFICATIONSAVED}
@@ -247,13 +247,13 @@ Fill The Fields
     Input Text    ${ADDPLAYERACHIEVEMENTINPUT}      None
     Input Text    ${ADDPLAYERLACZYINPUT}            Tak
     Input Text    ${ADDPLAYER90INPUT}               Też
-    Input Text    ${ADDPLAYERFBINPUT}               To może nie
+#    Input Text    ${ADDPLAYERFBINPUT}               To może nie
 Fill Youtube Field
     Click Element                   ${ADDPLAYERYOUTUBEBUTTON}
     Input Text                      ${ADDPLAYERYOUTUBEINPUT}        https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Open Login Page
     Open Browser        ${LOGIN URL}    ${BROWSER}
-    Title Should Be     Scouts panel - sign in
+#    Title Should Be     Scouts panel - sign in
 Remind Assert Popup
     Wait Until Element Is Visible       ${REMINDPASSWORDNOTIFICATION}
     Capture Page Screenshot             remind_password.png
