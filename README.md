@@ -65,14 +65,14 @@ For this task, we need to change our environment - https://scouts.futbolkolektyw
 - [x] Create a template for reporting bugs
 - [x] Add a link
 
-[Here](https://docs.google.com/spreadsheets/d/1MxS2bTjNevnrcf9vLgro9191d_uy7P3g/edit#gid=1461388802) you can find the file, wehere I store bug reports - each bug has it's own sheet. Also, I added an actual result in every step of my bug report - it is not necessary, but I find it useful.
+[Here](https://docs.google.com/spreadsheets/d/1MxS2bTjNevnrcf9vLgro9191d_uy7P3g/edit#gid=1461388802) you can find the file, where I store bug reports - each bug has it's own sheet. Also, I added an actual result in every step of my bug report - it is not necessary, but I find it useful.
 
 ## Subtask 3 - Test report
 
 - [x] Create a template for the report
 - [x] Add a link
 
-[Here](https://docs.google.com/spreadsheets/d/1tnZP_O4EirXwucyyMgWD2zVHxhYFPB6O/edit#gid=1922104053) you can find the file, ehere I store the test report. 
+[Here](https://docs.google.com/spreadsheets/d/1tnZP_O4EirXwucyyMgWD2zVHxhYFPB6O/edit#gid=1922104053) you can find the file, where I store the test report. 
 
 
 ## Subtask 4 - Create a portfolio
