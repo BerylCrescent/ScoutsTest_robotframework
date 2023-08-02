@@ -72,7 +72,7 @@ For this task, we need to change our environment - https://scouts.futbolkolektyw
 - [x] Create a template for the report
 - [x] Add a link
 
-[Here](https://docs.google.com/spreadsheets/d/1tnZP_O4EirXwucyyMgWD2zVHxhYFPB6O/edit#gid=1922104053) you can find the file, ehere I store bug reports. 
+[Here](https://docs.google.com/spreadsheets/d/1tnZP_O4EirXwucyyMgWD2zVHxhYFPB6O/edit#gid=1922104053) you can find the file, ehere I store the test report. 
 
 
 ## Subtask 4 - Create a portfolio
