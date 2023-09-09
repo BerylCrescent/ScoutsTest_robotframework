@@ -17,6 +17,7 @@ For your convenience, links to previous tasks can be found in the table of conte
 4. [Task 4](https://github.com/BerylCrescent/automated_testing_challenge_portfolio_Wiola/tree/main#task-4---refactoring-debugger-and-test-cases)
 5. [Task 5](#task-5---robot-framework)
 6. [Task 6](#task-6---bug-reporting-and-test-report)
+7. [Feedback](#feedback)
 
 </br>
 
@@ -83,3 +84,8 @@ For the sake of capturing any occuring bugs on screenshots time.sleep() was adde
 - [x] Create a new repository for your portfolio
 
 Well, thanks to the previous challenge - Become a Manual Tester - I already have a [portfolio](https://github.com/BerylCrescent/Portfolio) created. 
+
+
+# Feedback
+
+Individual [feedback](https://dareit.notion.site/Indywidualny-Feedback-Testy-Automatyczne-Python-Wioletta-Rusiecka-56aea9e3eeff46b6b94d9f5f2b4e476b) for this challenge
